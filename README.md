@@ -6,7 +6,7 @@ A CommandBox module for customizing all the text in the CLI startup banner.
 
 The CommandBox Banner Hack module allows you to customize the version, quote, and welcome message seen in the CommandBox startup banner.
 
-![CommandBox Banner Hack screenshot](/assets/screenshot.jpg "CommandBox Banner Hack screenshot")
+![CommandBox Banner Hack screenshot](https://github.com/mjclemente/commandbox-banner-hack/raw/master/assets/screenshot.jpg "CommandBox Banner Hack screenshot")
 
 ### Why would you want to do this?
 
