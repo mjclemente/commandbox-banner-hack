@@ -1,0 +1,58 @@
+{
+    "name":"CommandBox Banner Hack",
+    "version":"1.0.0",
+    "author":"Matthew Clemente <mjclemente@gmail.com>",
+    "location":"mjclemente/commandbox-banner-hack#v1.0.0",
+    "homepage":"https://github.com/mjclemente/commandbox-banner-hack",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/mjclemente/commandbox-banner-hack"
+    },
+    "bugs":"https://github.com/mjclemente/commandbox-banner-hack/issues",
+    "slug":"commandbox-banner-hack",
+    "shortDescription":"A CommandBox module for customizing all the text in the CLI startup banner.",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"commandbox-modules",
+    "keywords":"commandbox,cli,banner",
+    "private":false,
+    "projectURL":"",
+    "license":[
+        {
+            "type":"MIT",
+            "URL":"https://github.com/mjclemente/commandbox-banner-hack/blob/master/LICENSE"
+        }
+    ],
+    "contributors":[],
+    "dependencies":{},
+    "devDependencies":{},
+    "installPaths":{},
+    "scripts":{},
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "excludes":"",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+}
